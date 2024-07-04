@@ -74,8 +74,9 @@ To build an end-to-end model that predicts the length of stay for patients being
 ├── model_monitoring.ipynb
 ├── model_retraining.ipynb
 ├── pipeline.ipynb
-├── README.md
-└── utils.py
+├── utils.py
+├── requirements.txt
+└── README.md
 ```
 The project is organized into several components:
 
