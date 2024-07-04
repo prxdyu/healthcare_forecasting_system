@@ -69,7 +69,6 @@ To build an end-to-end model that predicts the length of stay for patients being
 │   ├── retrained_model_metrics.pkl
 │   └── xgb_retrained.model
 ├── .gitignore
-├── creds.py
 ├── model_building.ipynb
 ├── model_deployment.ipynb
 ├── model_monitoring.ipynb
