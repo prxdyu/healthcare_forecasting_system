@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+scikit-learn
+xgboost
+snowflake-connector-python
+snowflake-sqlalchemy
+alibi-detect
+alibi
