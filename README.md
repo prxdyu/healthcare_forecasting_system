@@ -46,7 +46,7 @@ To build an end-to-end model that predicts the length of stay for patients being
 
 ## Tech Stack
 
-- **Tools**: AWS SageMaker, Snowflake
+- **Tools**: AWS SageMaker, Snowflake, Jupyter Notebook
 - **Language**: Python
 - **Libraries**: `snowflake-connector-python`, `snowflake-sqlalchemy`, `xgboost`, `pandas`, `numpy`, `scikit-learn`, `alibi`, `scipy`
 
